@@ -1,2 +1,4 @@
 # Project exclude paths
 /out/
+/Memory in Java.iml
+/.idea/
