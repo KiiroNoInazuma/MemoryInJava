@@ -1,7 +1,13 @@
-public class Launcher extends Swap {
+public class Launcher {
     public static void main(String[] args) {
-        swap(5, 10);
-        System.out.println(x);
-        System.out.println(y);
+        int x = 5;
+        int y = 10;
+
+        x = x * y;
+        y = x / y;
+        x = x / y;
+
+        System.out.println("x = " + x);
+        System.out.println("y = " + y);
     }
 }
