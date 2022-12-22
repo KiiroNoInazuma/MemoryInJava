@@ -9,6 +9,6 @@ public class Task3 {
     }
 
     public static void main(String[] args) {
-        System.out.println(six(4, 10));
+        System.out.println(six(1, 5));
     }
 }
