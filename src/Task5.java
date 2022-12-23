@@ -18,7 +18,7 @@ public class Task5 {
 
 
     public static void main(String[] args) {
-        arr = new int[]{1, 7, 1, 1, 7};
+        arr = new int[]{7, 7, 7, 1, 7};
         System.out.println(has77(arr));
     }
 }
