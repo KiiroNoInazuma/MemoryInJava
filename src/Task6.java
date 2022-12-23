@@ -16,6 +16,5 @@ public class Task6 {
     public static void main(String[] args) {
         int[] arr = {2, 1, 2, 2};
         System.out.println(twoTwo(arr));
-
     }
 }
